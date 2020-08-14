@@ -6,3 +6,5 @@
 **Contact:**
 [Twitter](https://twitter.com/spicey)
 Brad#8019
+
+[![Brad's github stats](https://github-readme-stats.vercel.app/api?username=bypasses)](https://github.com/anuraghazra/github-readme-stats)
