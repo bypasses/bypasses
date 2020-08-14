@@ -7,4 +7,4 @@
 [Twitter](https://twitter.com/spicey)
 Brad#8019
 
-[![Brad's github stats](https://github-readme-stats.vercel.app/api?username=bypasses&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Brad's github stats](https://github-readme-stats.vercel.app/api?username=bypasses&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
