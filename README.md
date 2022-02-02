@@ -1,7 +1,5 @@
 ### Hi there 👋
-**Currently working on [PayAIO](https://twitter.com/payaio) (Sneaker Bot & Chrome Extention)**
-
-**I work in:** NodeJS, JS, Python, Html, CSS, React and Visual Basic
+**Currently working on [non-Fungible Bot](https://twitter.com/nonfungiblebot)**
 
 **Contact:**
 [Twitter](https://twitter.com/spicey)
